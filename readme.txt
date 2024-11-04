@@ -5,7 +5,7 @@ m10
 
 
 para clonar
-
+https://github.com/ThDelgado/panel_admin.git
 
 Thelma Delgado
 
